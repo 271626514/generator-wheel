@@ -1,0 +1,17 @@
+{
+  "name": "generator-wheel",
+  "version": "1.0.0",
+  "files": [
+    "generators"
+  ],
+  "main": "generators/index.js",
+  "scripts": {},
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "syzx9801@163.com",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^1.1.1"
+  }
+}
